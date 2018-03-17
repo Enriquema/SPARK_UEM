@@ -1,0 +1,33 @@
+[0m[[0minfo[0m] [0mPackaging /home/bigdata/emora/practica_uem/target/scala-2.10/stackoverflow_2.10-0.1.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	StackOverflow$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/bigdata/emora/practica_uem/target/scala-2.10/classes/StackOverflow$.class[0m
+[0m[[0mdebug[0m] [0m	StackOverflow.class[0m
+[0m[[0mdebug[0m] [0m	  /home/bigdata/emora/practica_uem/target/scala-2.10/classes/StackOverflow.class[0m
+[0m[[0mdebug[0m] [0m	StackOverflow$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	  /home/bigdata/emora/practica_uem/target/scala-2.10/classes/StackOverflow$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	StackOverflow$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/bigdata/emora/practica_uem/target/scala-2.10/classes/StackOverflow$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	StackOverflow$$anonfun$7.class[0m
+[0m[[0mdebug[0m] [0m	  /home/bigdata/emora/practica_uem/target/scala-2.10/classes/StackOverflow$$anonfun$7.class[0m
+[0m[[0mdebug[0m] [0m	StackOverflow$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /home/bigdata/emora/practica_uem/target/scala-2.10/classes/StackOverflow$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	StackOverflow$Person$4$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/bigdata/emora/practica_uem/target/scala-2.10/classes/StackOverflow$Person$4$.class[0m
+[0m[[0mdebug[0m] [0m	StackOverflow$Person$3.class[0m
+[0m[[0mdebug[0m] [0m	  /home/bigdata/emora/practica_uem/target/scala-2.10/classes/StackOverflow$Person$3.class[0m
+[0m[[0mdebug[0m] [0m	StackOverflow$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/bigdata/emora/practica_uem/target/scala-2.10/classes/StackOverflow$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	StackOverflow$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /home/bigdata/emora/practica_uem/target/scala-2.10/classes/StackOverflow$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	StackOverflow$$anonfun$10.class[0m
+[0m[[0mdebug[0m] [0m	  /home/bigdata/emora/practica_uem/target/scala-2.10/classes/StackOverflow$$anonfun$10.class[0m
+[0m[[0mdebug[0m] [0m	StackOverflow$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	  /home/bigdata/emora/practica_uem/target/scala-2.10/classes/StackOverflow$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	StackOverflow$$anonfun$9.class[0m
+[0m[[0mdebug[0m] [0m	  /home/bigdata/emora/practica_uem/target/scala-2.10/classes/StackOverflow$$anonfun$9.class[0m
+[0m[[0mdebug[0m] [0m	StackOverflow$$anonfun$6.class[0m
+[0m[[0mdebug[0m] [0m	  /home/bigdata/emora/practica_uem/target/scala-2.10/classes/StackOverflow$$anonfun$6.class[0m
+[0m[[0mdebug[0m] [0m	StackOverflow$$anonfun$8.class[0m
+[0m[[0mdebug[0m] [0m	  /home/bigdata/emora/practica_uem/target/scala-2.10/classes/StackOverflow$$anonfun$8.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
